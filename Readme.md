@@ -14,6 +14,12 @@ simple goal tracker with CRUD functionality
 - user registration
 - user login(local storage persist)
 - user logout
+-  add goals
+- delete goals
+
+### demo
+[https://jmrgoalsetter.herokuapp.com/](https://jmrgoalsetter.herokuapp.com/)
+
 
 ### reach out to developer
 
